@@ -30,7 +30,7 @@
 - 👋 Hi, I’m <span class="p-nickname vcard-username d-block" itemprop="additionalName">
           r03r
 
-        </span> mini coder no xpert 
+        mini coder no xpert 
 - 👀 I’m interested in find a team to cooperate 
 - 🌱 I’m currently learning JS ANGULAR PHP en Symfony
 - 💞️ I’m looking to collaborate on backend
