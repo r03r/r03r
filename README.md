@@ -1,210 +1,97 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <!-- Metatags SEO y Social -->
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Desarrollador Full Stack especializado en Java, Spring y Angular | Apasionado por la creación de soluciones tecnológicas innovadoras">
-    <meta name="keywords" content="desarrollador, full stack, java, spring, angular, typescript, cloud, docker">
-    <meta property="og:title" content="r03r - Desarrollador Full Stack">
-    <meta property="og:description" content="Portfolio técnico y experiencia en desarrollo de software">
-    <meta property="og:image" content="https://example.com/your-image.jpg">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:creator" content="@tu_usuario">
-    
-    <!-- Estilos y Fuentes -->
-    <style>
-        :root {
-            --primary: #2F80ED;
-            --secondary: #27AE60;
-            --accent: #EB5757;
-        }
+<h1 align="center"> 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+Hola%2C+Soy+r03r;Desarrollador+Full+Stack;%3C%2F%3E+Con+%E2%9D%A4%EF%B8%8F+al+C%C3%B3digo" alt="Typing SVG" />
+  </a>
+</h1>
 
-        body {
-            font-family: 'Segoe UI', system-ui, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 2rem;
-            background: #f8f9fa;
-            color: #333;
-        }
+<p align="center">
+  <a href="https://github.com/r03r?tab=repositories">
+    <img src="https://komarev.com/ghpvc/?username=r03r&label=Profile+Views&color=blue&style=flat" alt="Profile views" />
+  </a>
+  <a href="https://github.com/r03r?tab=followers">
+    <img src="https://img.shields.io/github/followers/r03r?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+</p>
 
-        .skill-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-            gap: 1rem;
-            margin: 2rem 0;
-        }
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=r03r&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)
+  
+</div>
 
-        .skill-card {
-            background: white;
-            padding: 1rem;
-            border-radius: 12px;
-            text-align: center;
-            transition: all 0.3s ease;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            position: relative;
-            overflow: hidden;
-        }
+## 🛠 Tech Stack
 
-        .skill-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 8px 15px rgba(0,0,0,0.2);
-        }
+### 💻 Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-        .skill-card::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: linear-gradient(45deg, transparent, rgba(47,128,237,0.1), transparent);
-            transform: rotate(45deg);
-            transition: 0.5s;
-        }
+### ⚙️ Backend
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-        .skill-card:hover::before {
-            animation: shine 1.5s;
-        }
+### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-        @keyframes shine {
-            0% { left: -50%; }
-            100% { left: 150%; }
-        }
+### 🚀 DevOps & Cloud
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-        .skill-icon {
-            width: 48px;
-            height: 48px;
-            margin: 0 auto 0.5rem;
-            transition: transform 0.3s;
-        }
+## 📊 Estadísticas
 
-        .skill-card:hover .skill-icon {
-            transform: scale(1.2) rotate(360deg);
-        }
+<div align="center">
+  
+  [![r03r's GitHub stats](https://github-readme-stats.vercel.app/api?username=r03r&show_icons=true&theme=radical)](https://github.com/r03r)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r03r&layout=compact&theme=radical)](https://github.com/r03r)
+  
+</div>
 
-        .badge {
-            display: inline-block;
-            padding: 0.35em 0.65em;
-            font-size: 0.75em;
-            font-weight: 700;
-            line-height: 1;
-            text-align: center;
-            white-space: nowrap;
-            vertical-align: baseline;
-            border-radius: 0.25rem;
-            background: var(--primary);
-            color: white;
-            margin: 0.2rem;
-        }
+## 🔥 Últimos Proyectos
 
-        .interactive-section {
-            margin: 2rem 0;
-            padding: 1.5rem;
-            background: white;
-            border-radius: 12px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-        }
+<!-- REPOSITORIES:START -->
+- [Proyecto 1](https://github.com/r03r/proyecto1) - Descripción breve del proyecto
+- [Proyecto 2](https://github.com/r03r/proyecto2) - Descripción breve del proyecto
+- [Proyecto 3](https://github.com/r03r/proyecto3) - Descripción breve del proyecto
+<!-- REPOSITORIES:END -->
 
-        .animate-on-scroll {
-            opacity: 0;
-            transform: translateY(20px);
-            transition: all 0.6s ease-out;
-        }
+## 📫 Contáctame
 
-        .animate-on-scroll.visible {
-            opacity: 1;
-            transform: translateY(0);
-        }
-    </style>
-</head>
-<body>
-    <!-- Perfil Principal -->
-    <header class="interactive-section animate-on-scroll">
-        <h1>👋 Hola, Soy r03r</h1>
-        <p class="tagline">Desarrollador Full Stack | Especialista en Soluciones Cloud</p>
-        
-        <div class="skill-grid">
-            <!-- Tecnologías Principales -->
-            <div class="skill-card">
-                <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" class="skill-icon" alt="Java">
-                <div class="badge">Experto</div>
-            </div>
-            
-            <div class="skill-card">
-                <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" class="skill-icon" alt="Spring">
-                <div class="badge">Avanzado</div>
-            </div>
-            
-            <div class="skill-card">
-                <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" class="skill-icon" alt="Angular">
-                <div class="badge">Intermedio</div>
-            </div>
-        </div>
-    </header>
+<p align="center">
+  <a href="mailto:tu@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/tuperfil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/tuperfil">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
 
-    <!-- Sección de Habilidades -->
-    <section class="interactive-section animate-on-scroll">
-        <h2>🛠 Tech Stack</h2>
-        <div class="skill-grid">
-            <!-- Lista completa de habilidades con animaciones -->
-            <div class="skill-card">
-                <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" class="skill-icon" alt="Docker">
-                <span class="badge">Containerización</span>
-            </div>
-            
-            <div class="skill-card">
-                <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" class="skill-icon" alt="AWS">
-                <span class="badge">Cloud</span>
-            </div>
-            
-            <!-- Añade más habilidades aquí -->
-        </div>
-    </section>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/tuperfil">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" />
+  </a>
+</p>
 
-    <!-- Sección de Contacto -->
-    <section class="interactive-section animate-on-scroll">
-        <h2>📫 Conéctate Conmigo</h2>
-        <div class="skill-grid">
-            <a href="mailto:tu@email.com" class="skill-card">
-                <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" class="skill-icon" alt="Email">
-                <span class="badge">Email</span>
-            </a>
-            
-            <a href="https://linkedin.com/in/tuperfil" target="_blank" class="skill-card">
-                <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" class="skill-icon" alt="LinkedIn">
-                <span class="badge">LinkedIn</span>
-            </a>
-        </div>
-    </section>
+<!--
+**r03r/r03r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-    <!-- Scripts de Animación -->
-    <script>
-        // Animación al hacer scroll
-        const observer = new IntersectionObserver((entries) => {
-            entries.forEach(entry => {
-                if (entry.isIntersecting) {
-                    entry.target.classList.add('visible');
-                }
-            });
-        }, { threshold: 0.1 });
+Here are some ideas to get you started:
 
-        document.querySelectorAll('.animate-on-scroll').forEach((element) => {
-            observer.observe(element);
-        });
-
-        // Efecto interactivo para las tarjetas
-        document.querySelectorAll('.skill-card').forEach(card => {
-            card.addEventListener('mousemove', (e) => {
-                const rect = card.getBoundingClientRect();
-                const x = e.clientX - rect.left;
-                const y = e.clientY - rect.top;
-                card.style.setProperty('--mouse-x', `${x}px`);
-                card.style.setProperty('--mouse-y', `${y}px`);
-            });
-        });
-    </script>
-</body>
-</html>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
