@@ -60,8 +60,13 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r03r&show_icons=true&theme=radical" alt="Estadísticas GitHub">
-  <img src="https://streak-stats.demolab.com?user=r03r&theme=dark" alt="Racha GitHub">
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r03r&show_icons=true&theme=radical&hide_title=true)](https://github.com/r03r)
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=r03r&theme=dark)](https://git.io/streak-stats)
+  
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r03r&layout=compact&theme=radical)](https://github.com/r03r)
+  
 </div>
 
 ## 🌟 Proyectos Destacados
